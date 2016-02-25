@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.content {
+	font-size: 2em;
+}
+
+.message-label {
+	padding-left: 25px; 
+	font-weight: bold;
+}
